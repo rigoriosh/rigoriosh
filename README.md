@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rigoriosh from Bogota Colombia
 - 👀 I’m interested in javaScript fullSatck
-- 🌱 I’m currently learning Node and Flutter
+- 🌱 I’m currently learning Node and react-native
 - 💞️ I’m looking to collaborate on react Js
 - 📫 How to reach me rigoriosh@gmail.com
 
